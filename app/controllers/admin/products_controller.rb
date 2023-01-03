@@ -34,7 +34,7 @@ class Admin::ProductsController < ApplicationController
       :category_id,
       :quantity,
       :image,
-      :price
+      :price > 0
     )
   end
 
