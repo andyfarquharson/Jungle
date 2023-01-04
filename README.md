@@ -1,6 +1,8 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example. This was an existing app that we had to go through and find bugs that were present. Admin authentication information for adding categories and products can be found and edited in the .ENV file.
+
+## Screenshots
 
 ## Setup
 
