@@ -28,6 +28,7 @@ RSpec.describe Product, type: :model do
       @category = Category.create(name:"Ducks")
       product = Product.new(
         name: "Muscovy",
+        price_cents: nil,
         quantity: 3,
         category_id: @category.id
       )
